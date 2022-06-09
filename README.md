@@ -16,4 +16,5 @@ Approve All the victim has to do is press approve once. After this the solana wi
 Confirm All the victim has to do is press "Confirm". After that all of their SOL funds will be transfered to your address
 
 🖥 Admin Telegram: @extendedadmin
+
 New Shop https://t.me/+U3-HI9Nv_E8wNjRi
